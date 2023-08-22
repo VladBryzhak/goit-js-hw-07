@@ -41,4 +41,4 @@ const instance = basicLightbox.create(`
 
 console.log(galleryItems);
 
-console.log(galleryItems);
+
